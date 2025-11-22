@@ -1,5 +1,4 @@
 # WIFI-JAMMER
-Nanda Kishor s
 
 
 
